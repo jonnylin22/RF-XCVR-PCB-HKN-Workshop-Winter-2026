@@ -1907,7 +1907,7 @@
 	)
 	(text "Pinout Interface"
 		(exclude_from_sim no)
-		(at 185.166 73.406 0)
+		(at 164.846 63.246 0)
 		(effects
 			(font
 				(size 2.032 2.032)
@@ -1929,7 +1929,7 @@
 	)
 	(text "CC1101 Pins (6)"
 		(exclude_from_sim no)
-		(at 181.61 79.248 0)
+		(at 161.29 69.088 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2705,7 +2705,7 @@
 	)
 	(global_label "CSN"
 		(shape output)
-		(at 179.07 96.52 180)
+		(at 158.75 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2715,7 +2715,7 @@
 		)
 		(uuid "02d7d29b-7ff5-4c66-9f59-33dc340019cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.2748 96.52 0)
+			(at 151.9548 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,7 +2749,7 @@
 	)
 	(global_label "MISO"
 		(shape input)
-		(at 179.07 93.98 180)
+		(at 158.75 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2759,7 +2759,7 @@
 		)
 		(uuid "24dc95b5-5dc7-44f0-b6ca-79bcca17c292")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.4886 93.98 0)
+			(at 151.1686 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +2947,7 @@
 	)
 	(global_label "GD02"
 		(shape input)
-		(at 191.77 93.98 0)
+		(at 171.45 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2957,7 +2957,7 @@
 		)
 		(uuid "d642887e-0c71-46eb-9ca1-5553d03ed42f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.7142 93.98 0)
+			(at 179.3942 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2991,7 +2991,7 @@
 	)
 	(global_label "SCLK"
 		(shape output)
-		(at 191.77 91.44 0)
+		(at 171.45 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3001,7 +3001,7 @@
 		)
 		(uuid "e6fcf618-dea9-407f-b514-111c6b6a8979")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.5328 91.44 0)
+			(at 179.2128 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3035,7 +3035,7 @@
 	)
 	(global_label "GD00"
 		(shape bidirectional)
-		(at 191.77 96.52 0)
+		(at 171.45 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3045,7 +3045,7 @@
 		)
 		(uuid "eb73003e-8d7d-4a92-b7bd-bb18beada510")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.8255 96.52 0)
+			(at 180.5055 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3057,7 +3057,7 @@
 	)
 	(global_label "MOSI"
 		(shape output)
-		(at 179.07 91.44 180)
+		(at 158.75 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3067,7 +3067,7 @@
 		)
 		(uuid "f4b2c122-d726-4381-99e1-847a10c03230")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.4886 91.44 0)
+			(at 151.1686 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,7 +5151,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x04_Odd_Even")
-		(at 184.15 91.44 0)
+		(at 163.83 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5160,7 +5160,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab261eb0-69f6-44bc-aae1-696ba37dc73a")
 		(property "Reference" "J1"
-			(at 185.42 82.55 0)
+			(at 165.1 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5168,7 +5168,7 @@
 			)
 		)
 		(property "Value" "Conn_02x04_Odd_Even"
-			(at 185.42 85.09 0)
+			(at 165.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5176,7 +5176,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
-			(at 184.15 91.44 0)
+			(at 163.83 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5185,7 +5185,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 91.44 0)
+			(at 163.83 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5194,7 +5194,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 184.15 91.44 0)
+			(at 163.83 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5237,7 +5237,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 191.77 88.9 270)
+		(at 171.45 78.74 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5246,7 +5246,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac397cdd-3cf1-46cd-9606-379a47fc1342")
 		(property "Reference" "#PWR010"
-			(at 187.96 88.9 0)
+			(at 167.64 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5255,7 +5255,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 195.58 88.8999 90)
+			(at 175.26 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5264,7 +5264,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 88.9 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5273,7 +5273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 88.9 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,7 +5282,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 191.77 88.9 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6376,7 +6376,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 179.07 88.9 270)
+		(at 158.75 78.74 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6385,7 +6385,7 @@
 		(fields_autoplaced yes)
 		(uuid "de3d7fe8-4bf2-4ead-a7d6-32c07e1bc38c")
 		(property "Reference" "#PWR08"
-			(at 172.72 88.9 0)
+			(at 152.4 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6394,7 +6394,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.26 88.8999 90)
+			(at 154.94 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6403,7 +6403,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 88.9 0)
+			(at 158.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6412,7 +6412,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 88.9 0)
+			(at 158.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6421,7 +6421,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 179.07 88.9 0)
+			(at 158.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
